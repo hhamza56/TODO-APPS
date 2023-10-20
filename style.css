@@ -1,0 +1,103 @@
+body {
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20200714/pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg);
+    margin-top: 20vh;
+  /* background-position: center; */
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* background-position-y: bottom; */
+
+
+
+}
+
+
+#inputfield {
+    background-color: rgb(79, 4, 122);
+    border-radius: 25px;
+    /* border-top-color: wheat; */
+    /* border-bottom-color: black; */
+    font-size: 25px;
+    /* padding: 15px; */
+color: white;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-bottom: 5px solid red;
+    border-top: 5px solid black;
+    border-left: 5px solid wheat;
+    border-right: 5px solid rgb(211, 211, 10);
+
+}
+
+
+
+
+
+
+
+button {
+    color: white;
+    background-color: blue;
+    border-radius: 25px;
+    cursor: pointer;
+    /* border-color: rgb(73, 90, 41); */
+    /* border-top-color:  wheat; */
+    /* border-left-color: red; */
+    font-size: 25px;
+    /* border: 25px; */
+/* padding-right: 4px; */
+border-top: 5px solid red;
+border-bottom: 5px solid black;
+border-left: 5px solid white;
+border-right: 5px solid rgb(223, 192, 16);
+
+
+
+
+
+
+}
+
+
+
+#list{
+    color: white;
+    font-size: 25px;
+    /* padding: 30px; */
+
+}
+
+
+.lk{
+    color: white;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+font-size: 15vh;
+
+
+    /* border: solid 3px; */
+    /* padding: 0; */
+    /* margin: 0; */
+}
+
+.lk:hover{
+    color: red;
+    /* background-color: beige; */
+}
+
+
+button:hover{
+    background-color: white;
+    color: red;
+
+}
+
+
+
+
+
+
+
+
+#inputfield:hover{
+    background-color: aliceblue;
+    color: black;
+}
